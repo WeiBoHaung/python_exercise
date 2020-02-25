@@ -1,0 +1,22 @@
+"""定义一个递归函数"""
+'''
+def printList(l,tabs):
+    tabs += "\t";
+    print(len(tabs));
+    for cl in l:
+        if isinstance(cl,list):
+            printList(cl,tabs);
+        else:
+            print(tabs  + cl);
+
+'''
+
+"""定义一个递归函数"""
+def printList(l,level=0):
+    for cl in l:
+        if isinstance(cl,list):
+            printList(cl,level+1);
+        else:
+            for tabN in range(level):
+                print("\t",end='')
+            print(cl);
