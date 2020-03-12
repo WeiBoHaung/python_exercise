@@ -2,33 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e316ffa4-d778-4c43-bce3-ddf3d305d56e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Selenium/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/2.1142/dm.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/2.1142/gen/Dm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/2.1142/gen/_00020430_0000_0000_C000_000000000046_0_2_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/2.1142/gen/_9391EB27_65F1_4674_BF94_B251B958642A_0_1_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/2.1142/gen/stdole.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/2.1142/regdm.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/2.1142/修改记录.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/2.1142/大漠接口说明.CHM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/2.1142/大漠综合工具.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/3.1233/RegDll.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/3.1233/dm.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/3.1233/gen/Dm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/3.1233/gen/_00020430_0000_0000_C000_000000000046_0_2_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/3.1233/gen/_84288AAD_BA02_4EF2_85EC_3FAD4D11354D_0_1_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/3.1233/gen/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/3.1233/gen/stdole.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/3.1233/regdm.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/3.1233/修改记录.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/3.1233/大漠后台系统.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/3.1233/大漠接口说明.CHM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/3.1233/大漠综合工具.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/dm/3.1233/获取本机机器码.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mhwi/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_exercise.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dmpy/damo.py" beforeDir="false" afterPath="$PROJECT_DIR$/dmpy/damo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dmpy" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1XhNlGycZNfqR6yURO2v2hkzV20" />
@@ -61,8 +38,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mhwi" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -219,6 +196,7 @@
       <workItem from="1581582753435" duration="2410000" />
       <workItem from="1581756869715" duration="393000" />
       <workItem from="1581757284079" duration="942000" />
+      <workItem from="1583239467042" duration="196000" />
     </task>
     <task id="LOCAL-00001" summary="第一堂課">
       <created>1581494587662</created>
@@ -347,19 +325,22 @@
     </state>
     <state width="1418" height="270" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1582353702279" />
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.31.1680.1010@0.0.1920.1040" timestamp="1581757264736" />
-    <state x="346" y="122" key="SettingsEditor" timestamp="1582334418853">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="492" y="173" key="SettingsEditor" timestamp="1583239493863">
+      <screen x="40" y="23" width="1880" height="1057" />
     </state>
     <state x="346" y="122" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1582334418853" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.31.1680.1010@0.0.1920.1040" timestamp="1581756802697" />
+    <state x="462" y="153" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1583139028101" />
+    <state x="492" y="173" key="SettingsEditor/40.23.1880.1057@40.23.1880.1057" timestamp="1583239493863" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1581496579400">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.31.1680.1010@0.0.1920.1040" timestamp="1581496579400" />
-    <state x="412" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1582348749976">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="578" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1583239471490">
+      <screen x="40" y="23" width="1880" height="1057" />
     </state>
     <state x="412" y="252" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1582348749976" />
+    <state x="578" y="333" key="com.intellij.ide.util.TipDialog/40.23.1880.1057@40.23.1880.1057" timestamp="1583239471490" />
     <state x="759" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581496367781">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
