@@ -6,7 +6,6 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-somepackage = "==1.2.3"
 django = "*"
 
 [requires]
